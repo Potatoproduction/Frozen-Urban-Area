@@ -1,4 +1,5 @@
 [
+	// Base terrains
 {
 		"name": "Snow",
 		"type": "Land",
