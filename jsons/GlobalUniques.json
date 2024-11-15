@@ -1,6 +1,6 @@
 {
     "name": "Global uniques",
     "uniques": [
-        "[land units <in [Foreign Land] tiles>] takes [20] damage "
+        "[All] units gain the [Frost] promotion"
     ]
 }
