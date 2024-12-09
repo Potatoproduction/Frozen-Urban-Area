@@ -1,5 +1,7 @@
 {
     "name": "Global uniques",
     "uniques": [
+         "[-75]% growth [in all cities] <in cities with less than [5] [Population]>",
+        "[-100]% growth [in all cities] <in cities with at least [5] [Population]>"
     ]
 }
