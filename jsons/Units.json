@@ -2,9 +2,9 @@
 {
 		"name": "Settler",
 		"unitType": "Civilian",
-		"movement": 1,
-		"cost": 1000,
-		"uniques": ["Founds a new city <by consuming this unit>", "Limited to [1] per Civilization", "Unbuildable", "Cannot be purchased"],
+		"movement": 3,
+		"cost": 1500,
+		"uniques": ["Founds a new city <by consuming this unit>", "Limited to [1] per Civilization", "Unbuildable <before discovering [Replaceable Parts]>", "Cannot be purchased", "Can only be built <in [Capital] cities>"],
 		"hurryCostModifier": 20
 	}
 ]
