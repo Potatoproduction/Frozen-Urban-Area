@@ -4,7 +4,7 @@
 		"unitType": "Civilian",
 		"movement": 3,
 		"cost": 1500,
-		"uniques": ["Founds a new city <by consuming this unit>", "Limited to [1] per Civilization", "Unbuildable <before discovering [Replaceable Parts]>", "Cannot be purchased", "Can only be built <in [Capital] cities>"],
+		"uniques": ["Founds a new city <by consuming this unit>", "Unbuildable <before discovering [Steam Power]>", "Cannot be purchased", "Can only be built <in [Capital] cities>"],
 		"hurryCostModifier": 20
 	}
 ]
