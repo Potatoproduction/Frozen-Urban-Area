@@ -1,7 +1,6 @@
 {
 	"modUrl": "https://github.com/Potatoproduction/Frozen-Urban-Area",
 	"author": "Potato productions",
-	"isBaseRuleset": "true",
 	"constants": {
     "maxXPfromBarbarians": 100,
     "cityStrengthBase": 0,
