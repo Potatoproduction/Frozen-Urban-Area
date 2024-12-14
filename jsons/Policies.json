@@ -10,7 +10,8 @@
             "Scientific": 5
         },
         "uniques": [
-            "Unavailable"
+            "Unavailable",
+            "<hidden from users>"
         ],
         "policies": [
             {
